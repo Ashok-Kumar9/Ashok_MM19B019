@@ -1,0 +1,22 @@
+.navbarList{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #5edbfd;
+}
+.navbarListItem{
+  float: left;
+}
+
+.navbarHref{
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 16px;
+  text-decoration: none;
+}
+
+.navbarHref:hover{
+  background-color: greenyellow;
+}
